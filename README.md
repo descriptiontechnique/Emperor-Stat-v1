@@ -1,4 +1,4 @@
 # emperor-stat
-!stat , !top olarak ayarlanmıştır detaylı bilgi icin yazmayın aq
+!stat , !top olarak ayarlanmıştır detaylı bilgi icin yazmayın sunucumuza gelebilirsiniz!
 
 
